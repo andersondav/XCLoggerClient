@@ -1,0 +1,24 @@
+{
+  "name": "xcloggerclient",
+  "version": "1.0.0",
+  "description": "Angular front end for XC Logger",
+  "main": "index.html",
+  "scripts": {
+    "test": "http-server ./ -o -c-1 -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersondav/XCLoggerClient.git"
+  },
+  "author": "Anderson David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersondav/XCLoggerClient/issues"
+  },
+  "homepage": "https://github.com/andersondav/XCLoggerClient#readme",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "angular-route": "^1.7.5",
+    "http-server": "^0.12.0"
+  }
+}
