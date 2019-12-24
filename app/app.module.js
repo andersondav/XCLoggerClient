@@ -1,1 +1,1 @@
-angular.module('xcLogger', ['loginOrSignUp', 'ngRoute']);
+angular.module('xcLogger', ['loginOrSignup', 'login', 'signup', 'ngRoute']);
